@@ -1,0 +1,6 @@
+/.cache
+/.git
+/.npm
+/node_modules
+/sessions
+/tmp
